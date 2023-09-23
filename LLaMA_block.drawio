@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-23T03:52:22.370Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9CLuZMIu_4JucdUxdNKX" version="21.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-23T03:52:42.115Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XL9q5omLETMA23cbIQs4" version="21.8.1" type="github">
   <diagram name="第 1 页" id="QoWlPOXiwu-JWedbGoKN">
     <mxGraphModel dx="954" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
         </mxCell>
         <mxCell id="BmtZN33E5YH0YcVX_5-P-28" value="TransformerBlock" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="445" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BmtZN33E5YH0YcVX_5-P-30" value="output" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="910" y="250" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
